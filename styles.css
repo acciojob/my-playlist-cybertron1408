@@ -17,6 +17,10 @@ li{
 	text-align:center;
 	margin:70px;
 
+}.player_two{
+background-color:white;
+	padding:25px 15px 25px 15px;
+	border-radius:10px;
 }
 audio,video{
 	width:100%;
